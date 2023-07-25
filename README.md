@@ -29,6 +29,7 @@ def gcd():
 ~~~
 
 ## Output:
+
 ![gcd](/gcd.png)
 
 
