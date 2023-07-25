@@ -29,7 +29,7 @@ def gcd():
 ~~~
 
 ## Output:
-![gvvr](/gcd.png)
+![gcd](/gcd.png)
 
 
 ## Result:
