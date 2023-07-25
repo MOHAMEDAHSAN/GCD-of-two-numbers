@@ -30,7 +30,7 @@ def gcd():
 
 ## Output:
 
-![gcd](/GCD_OUTPUT.png)
+![gcd](/AAA.png)
 
 
 ## Result:
